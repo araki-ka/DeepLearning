@@ -2,7 +2,7 @@
 
 ## 概要
 
-[ゼロから作るDeep Learning Pythonで学ぶディープラーニングの理論と実装](https://www.oreilly.co.jp/books/9784873117584/)の自習用リポジトリとなります。
+[ゼロから作るDeep Learning Pythonで学ぶディープラーニングの理論と実装](https://www.oreilly.co.jp/books/9784873117584/)の自習用リポジトリです。
 
 
 ## 0_環境設定
