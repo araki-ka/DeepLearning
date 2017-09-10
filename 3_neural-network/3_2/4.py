@@ -4,6 +4,8 @@
 # 3.2.4 シグモイド関数の実装
 import numpy as np
 import matplotlib.pylab as plt
+import sys
+sys.path.append("../")
 from functions import sigmoid as sig
 
 

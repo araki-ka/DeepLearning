@@ -16,6 +16,7 @@ def step_function(inp):
     out = inp > 0
     return out.astype(np.int)
 
+
 print("step_function_scalar")
 print("inp = 1 -> ")
 print(step_function_scalar(1))

@@ -4,6 +4,8 @@
 # 3.2.3 ステップ関数のグラフ
 import numpy as np
 import matplotlib.pylab as plt
+import sys
+sys.path.append("../")
 from functions import step_function as stp
 
 

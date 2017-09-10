@@ -4,6 +4,8 @@
 # 3.2.7 ReLU関数
 import numpy as np
 import matplotlib.pylab as plt
+import sys
+sys.path.append("../")
 from functions import relu
 
 
