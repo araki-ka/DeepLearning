@@ -4,6 +4,8 @@
 # 3.2.5 シグモイド関数とステップ関数の比較
 import numpy as np
 import matplotlib.pylab as plt
+import sys
+sys.path.append("../")
 from functions import sigmoid as sig
 from functions import step_function as stp
 
