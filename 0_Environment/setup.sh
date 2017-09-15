@@ -30,12 +30,12 @@ fi
 echo "OK"
 
 # anaconda
-echo "checking anaconda3-"$ANACONDA_VERSION$"..."
+echo "checking anaconda3-"$ANACONDA_VERSION"..."
 pyenv which conda
 if [ "$?" -ne 0 ]; then
-    echo "install anaconda3-"$ANACONDA_VERSION$
-    pyenv install anaconda3-$ANACONDA_VERSION$
-    pyenv global anaconda3-$ANACONDA_VERSION$
+    echo "install anaconda3-"$ANACONDA_VERSION
+    pyenv install anaconda3-$ANACONDA_VERSION
+    pyenv global anaconda3-$ANACONDA_VERSION
 fi
 echo "OK"
 
