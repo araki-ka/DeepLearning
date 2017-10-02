@@ -16,3 +16,5 @@
 - IDE  
     - [Visual Studio Code 1.13.1](https://code.visualstudio.com/)
     - [PyCharm Community Edition 2017.1.4](https://www.jetbrains.com/pycharm/)
+
+## 1_Python 入門
